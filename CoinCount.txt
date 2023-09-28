@@ -1,0 +1,7 @@
+Volunteer: Tom
+Correct Bags: 2
+Total Bags: 2
+Accuracy: 100.00%
+
+Total Number of Bags Checked: 5
+Total Value of Coins: £69.00
